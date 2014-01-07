@@ -1,0 +1,7 @@
+rpcuser=pesetacoin
+rpcpassword=secret
+rpcport=16638
+rpcallowip=192.168.0.*
+server=1
+daemon=1
+addnode=188.138.16.83
